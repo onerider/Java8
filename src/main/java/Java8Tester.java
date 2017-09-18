@@ -21,6 +21,7 @@ public class Java8Tester {
         items.add("B");
         items.add("C");
         items.add("D");
+        items.add("E");
 
         items.forEach(item -> System.out.println("Hej " + item));
 
